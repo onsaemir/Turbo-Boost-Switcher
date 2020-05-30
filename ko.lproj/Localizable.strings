@@ -1,0 +1,75 @@
+/*
+  Localizable.strings
+  Turbo Boost Switcher
+
+  Created by Rubén García Pérez on 23/07/13.
+  Copyright (c) 2016 Rubén García Pérez.
+*/
+"cpu_temp" = "CPU 온도:";
+"fan_speed" = "Fan 속도:";
+"cpu_temp_na" = "CPU 온도: 사용 불가능";
+"fan_speed_na" = "Fan 속도: 사용 불가능";
+"enable_menu" = "Turbo Boost 활성화";
+"disable_menu" = "Turbo Boost 비활성화";
+"open_login" = "로그인 시 열기";
+"disable_login" = "시동 시 TB 비활성화";
+"settings" = "설정:";
+"donate" = "기부...";
+"about" = "정보...";
+"about_title" = "정보";
+"quit" = "Turbo Boost Switcher 종료";
+"updates" = "업데이트 확인...";
+"updates_title" = "업데이트";
+
+"updates_progress" = "업데이트 확인 중...";
+"updates_available" = "새로운 버전이 다운로드 가능합니다!";
+"updates_not_available" = "이미 최신 버전입니다.";
+"updates_error" = "업데이트 확인 오류";
+
+"btn_cancel" = "취소";
+"btn_download" = "다운로드";
+"btn_close" = "닫기";
+
+"author" = "by Copyright (c) 2016 Rubén García Pérez";
+"web" = "rugarciap.com";
+"donate_msg" = "이 프로그램이 마음에 드시면, 부디 기부를 고려해주세요. 감사합니다!";
+"license" = "라이센스:";
+
+"checkUpdates" = "시작 시 확인";
+"etq_like_app_pro" = "이 앱이 마음에 드세요? 프로 버전을 고려해보세요! 감사합니다!";
+"btn_pro" = "프로 업그레이드!";
+
+"alert_later" = "나중에";
+"alert_never_show_again" = "다시 보지 않기";
+"alert_text" = "이 앱이 맘에 드세요? 프로 버전으로 지원해주세요! ^^";
+"alert_informative_text" = "프로 버전 업그레이드 시 멋진 자동 기능, 알림, 영구적 무료 업데이트 등이 활성화됩니다!";
+
+// Language menú
+"language" = "언어";
+"language_en" = "영어";
+"language_es" = "스페인어";
+"language_pl" = "폴란드어 (베타)Polish (beta)";
+"language_de" = "독일어 (베타) German (beta)";
+"language_fr" = "프랑스어 (베타)French (beta)";
+"language_ru" = "러시아어 (베타)Russian (beta)";
+"language_zh" = "중국어 (베타)Chinese (beta)";
+"language_sv" = "스웨덴어 (베타) Swedish (beta)";
+"language_cs" = "체코어 (베타)Czech (beta)";
+"language_it" = "이탈리아어 (베타) Italian (beta)";
+
+"language_change_confirmation" = "확실합니까?";
+"language_change_informative_text" = "앱이 변경 사항을 적용하기 위해 다시 시작됩니다.";
+
+// Status Bar text
+"onOffMenu" = "On / Off 상태 바 글자";
+
+// Charting
+"lblTemperature" = "온도";
+"lblFanSpeed" = "Fan 속도";
+"lblTbEnabled" = "TB 활성화";
+"lblTbDisabled" = "TB 비활성화";
+"menuCharting" = "차트...";
+"titCharting" = "온도 & Fan 차트화";
+
+// Slider menú
+"sliderRefreshTimeLabel" = "갱신 주기: %lds";
